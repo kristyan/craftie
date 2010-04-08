@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Glasnevin Farmers, Craft And Fashion Market</title>
+<meta name="Description" content="Ireland's Premier Farmer's, Crafts And Fashion Market. an Open Air and Indoor Market located in Glasnevin Industrial State, D.11." />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="page2">
+<div id="tail-top-right"></div>
+<div id="main">
+  <!-- header -->
+  <div id="header">
+    <ul>
+      <li id="m1"><a href="/"><span><span>Home</span></span></a></li>
+      <li id="m2" class="menu-act"><a href="about.html"><span><span>about us</span></span></a></li>
+      <li id="m3"><a href="products.html"><span><span>products</span></span></a></li>
+      <li id="m4"><a href="stall_holders.html"><span><span>Stall Holders</span></span></a></li>
+      <li id="m5"><a href="find_us.html"><span><span>Find Us</span></span></a></li>
+    </ul>
+    <div id="header-info"> <strong>a few <span>words about us</span></strong> <b>Vestibulum ante ipsum primis in faucibus orci luctus et ul.</b>
+      <p>Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies
+        pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros.</p>
+      <a href="#"><span><span>read more</span></span></a> </div>
+  </div>
+  <!-- content -->
+  <div id="content">
+    <div class="box">
+      <div class="bg-tail">
+        <div class="bg-bot">
+          <div class="box-indent">
+            <div class="wrapper">
+              <div class="row-1">
+                <div class="line-ver-1">
+                  <div class="line-ver-2">
+                    <div class="wrapper">
+                      <div class="col-1">
+                        <div class="wrapper">
+                          <h2>Why choose us</h2>
+                          <img src="images/2page-img1.jpg" class="indent-bot" alt="" />
+                          <h3>Cum sociis natoque penatibus et nulla duiusce feugiat male</h3>
+                          <p>Cum sociis natoque penatibus et nulla duiusce feugiat male Morbi nunc odio cursus nec luctus a lorem. Maecenas tristique orci ac sem.
+                            Duis ultricies phare tra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing.</p>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-2">
+                        <div class="wrapper">
+                          <h2>What we offer</h2>
+                          <h3>Cum sociis natoque penatibus et nulla duiusce feugiat male</h3>
+                          <p>Cum sociis natoque penatibus et nulla duiusce feugiat male Morbi nunc odio cursus nec luctus a lorem.</p>
+                          <ul class="list">
+                            <li><a href="#">Nulla facilisi aenean nec eros</a></li>
+                            <li><a href="#">Vestibulum ante ipsum primis in</a></li>
+                            <li><a href="#">Faucibus orci luctus et ultrices posu</a></li>
+                            <li><a href="#">Suspendisse sollicitudin velit sed leo</a></li>
+                            <li><a href="#">Ut pharetra augue nec augue</a></li>
+                            <li><a href="#">Nam elit magna hendrerit sit amet</a></li>
+                            <li><a href="#">Tincidunt ac viverra sed nulla</a></li>
+                            <li><a href="#">Donec porta diam eu massa quisque</a></li>
+                          </ul>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-3">
+                        <div class="wrapper">
+                          <h2>Our standards</h2>
+                          <p class="extra">Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse
+                            sollici tudin velit
+                            sed leo.</p>
+                          <img src="images/2page-img2.jpg" class="indent-bot" alt="" />
+                          <p class="extra">Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse
+                            sollici tudin velit
+                            sed leo.</p>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="box-1">
+      <div class="bg-tail">
+        <div class="bg-top">
+          <div class="bg-bot">
+            <div class="box-indent">
+              <div class="wrapper">
+                <div class="row-2">
+                  <div class="line-ver-3">
+                    <div class="wrapper">
+                      	<div class="col-1">
+	                        <div class="wrapper">
+
+	                          <ul class="list-2">
+	                            <li><a href="index.html">Home</a></li>
+	                            <li><a href="about.html">About Us</a></li>
+	                            <li><a href="products.html">Products</a></li>
+	                            <li><a href="stall_holders.html">Stall Holders</a></li>
+	                            <li><a href="find_us.html">Find Us</a></li>
+	                          </ul>
+	                        </div>
+	                      </div>
+	                      <div class="col-2">
+	                        <div class="wrapper">
+
+	                         	 <p>Glasnevin Farmers & Crafts Market.<br />
+		                            131 D Slanery Road,<br />
+		                            Glasnevin Industrial Estate, <br />
+		                            Dublin  11</p>
+		                          <p> <em>087 1326095</em>Telephone: <br />
+
+		                            E-mail: chrisnoone@eircom.net </p>
+	                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <div id="footer">
+    
+    <p><span>Glasnevin Farmers & Crafts Market &copy; 2009 </span></p>
+  </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7007965-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="page2">
+<div id="main">
+  <!-- header -->
+  <div id="header">
+    <!--Valid flash version 8.0-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+                    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,24"
+           width="980" height="373">
+      <param name="movie" value="flash/header_v8.swf?button=2" />
+      <param name="quality" value="high" />
+      <param name="menu" value="false" />
+      <!--[if !IE]> <-->
+      <object data="flash/header_v8.swf?button=2"
+           width="980" height="373" type="application/x-shockwave-flash">
+        <param name="quality" value="high" />
+        <param name="menu" value="false" />
+        <param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer" />
+        FAIL (the browser should render some flash content, not this).
+      </object>
+      <!--> <![endif]-->
+    </object>
+  </div>
+  <!-- content -->
+  <div id="content">
+    <div class="box">
+      <div class="bg-tail">
+        <div class="bg-bot">
+          <div class="box-indent">
+            <div class="wrapper">
+              <div class="row-1">
+                <div class="line-ver-1">
+                  <div class="line-ver-2">
+                    <div class="wrapper">
+                      <div class="col-1">
+                        <div class="wrapper">
+                          <h2>Why choose us</h2>
+                          <img src="images/2page-img1.jpg" class="indent-bot" alt="" />
+                          <h3>Cum sociis natoque penatibus et nulla duiusce feugiat male</h3>
+                          <p>Cum sociis natoque penatibus et nulla duiusce feugiat male Morbi nunc odio cursus nec luctus a lorem. Maecenas tristique orci ac sem.
+                            Duis ultricies phare tra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing.</p>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-2">
+                        <div class="wrapper">
+                          <h2>What we offer</h2>
+                          <h3>Cum sociis natoque penatibus et nulla duiusce feugiat male</h3>
+                          <p>Cum sociis natoque penatibus et nulla duiusce feugiat male Morbi nunc odio cursus nec luctus a lorem.</p>
+                          <ul class="list">
+                            <li><a href="#">Nulla facilisi aenean nec eros</a></li>
+                            <li><a href="#">Vestibulum ante ipsum primis in</a></li>
+                            <li><a href="#">Faucibus orci luctus et ultrices posu</a></li>
+                            <li><a href="#">Suspendisse sollicitudin velit sed leo</a></li>
+                            <li><a href="#">Ut pharetra augue nec augue</a></li>
+                            <li><a href="#">Nam elit magna hendrerit sit amet</a></li>
+                            <li><a href="#">Tincidunt ac viverra sed nulla</a></li>
+                            <li><a href="#">Donec porta diam eu massa quisque</a></li>
+                          </ul>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-3">
+                        <div class="wrapper">
+                          <h2>Our standards</h2>
+                          <p class="extra">Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse
+                            sollici tudin velit
+                            sed leo.</p>
+                          <img src="images/2page-img2.jpg" class="indent-bot" alt="" />
+                          <p class="extra">Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse
+                            sollici tudin velit
+                            sed leo.</p>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="box-1">
+      <div class="bg-tail">
+        <div class="bg-top">
+          <div class="bg-bot">
+            <div class="box-indent">
+              <div class="wrapper">
+                <div class="row-2">
+                  <div class="line-ver-3">
+                    <div class="wrapper">
+                      <div class="col-1">
+                        <div class="wrapper">
+                          <h4>Testimonials</h4>
+                          <blockquote>
+                            <p>&ldquo;Morbi nunc odio cursus nec luctus a lorem. Maecenas tristique<br />
+                              orci ac sem. Duis ultricies pharetra magna. Donec
+                              accumsan malesuada orci. Donec sit amet eros.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit...&rdquo; <strong>Jessica Priston</strong></p>
+                          </blockquote>
+                          <a href="#" class="link-1"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-2">
+                        <div class="wrapper">
+                          <h4>The best of professionals</h4>
+                          <img src="images/2page-img3.jpg" class="fleft" alt="" />
+                          <h6>John Franklin</h6>
+                          <p>Morbi nunc odio cursus nec luctus a lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci.</p>
+                          <a href="#" class="link-1"><span><span>read more</span></span></a>
+                          <div class="clear"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <div id="footer">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li class="menu-act"><a href="about.html">About us</a></li>
+      <li><a href="index-2.html">Products</a></li>
+      <li><a href="index-3.html">Services</a></li>
+      <li><a href="index-4.html">Contacts</a></li>
+    </ul>
+    <p><span>Agriculture Co. &copy; 2009 | <a href="index-5.html">Privacy Policy</a></span></p>
+  </div>
+</div>
+</body>
+</html>

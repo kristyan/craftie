@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="layout.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="page1">
+<div id="main">
+  <!-- header -->
+  <div id="header">
+    <!--Valid flash version 8.0-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+                    codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,24"
+           width="980" height="373">
+      <param name="movie" value="flash/header_v8.swf?button=1" />
+      <param name="quality" value="high" />
+      <param name="menu" value="false" />
+      <!--[if !IE]> <-->
+      <object data="flash/header_v8.swf?button=1"
+           width="980" height="373" type="application/x-shockwave-flash">
+        <param name="quality" value="high" />
+        <param name="menu" value="false" />
+        <param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer" />
+        FAIL (the browser should render some flash content, not this).
+      </object>
+      <!--> <![endif]-->
+    </object>
+  </div>
+  <!-- content -->
+  <div id="content">
+    <div class="box">
+      <div class="bg-tail">
+        <div class="bg-bot">
+          <div class="box-indent">
+            <div class="wrapper">
+              <div class="row-1">
+                <div class="line-ver-1">
+                  <div class="line-ver-2">
+                    <div class="wrapper">
+                      <div class="col-1">
+                        <div class="wrapper">
+                          <h2>Products</h2>
+                          <img src="images/1page-img1.jpg" class="indent-bot" alt="" />
+                          <ul class="list">
+                            <li><a href="#">Cum sociis natoque penatibus et</a></li>
+                            <li><a href="#">Nulla duiusce feugiat male</a></li>
+                            <li><a href="#">Morbi nunc odio cursus nec luctus a</a></li>
+                            <li><a href="#">Maecenas tristique orci ac sem</a></li>
+                            <li><a href="#">Duis ultricies pharetra magna</a></li>
+                            <li><a href="#">Lorem ipsum dolor sit amet</a></li>
+                            <li><a href="#">Consecetuer adipiscing elit</a></li>
+                          </ul>
+                          <a href="#" class="link"><span><span>all products</span></span></a><a href="#" class="rss">RSS Feed</a> </div>
+                      </div>
+                      <div class="col-2">
+                        <div class="wrapper">
+                          <h2>Technology</h2>
+                          <img src="images/1page-img2.jpg" class="indent-bot" alt="" />
+                          <h3>Cum sociis natoque penatibus<br />
+                            et nulla duiusce feugiat male<br />
+                            Morbi nunc odio cursus nec</h3>
+                          <p>Cum sociis natoque penatibus et nulla duiusce feugiat male Morbi nunc odio cursus nec luctus a lorem. Maecenas tristique orci ac sem.
+                            Duis ultricies phare tra magna. Donec accumsan malesuada orci. Donec sit amet eros.</p>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-3">
+                        <div class="wrapper">
+                          <h2>Business</h2>
+                          <img src="images/1page-img3.jpg" class="indent-bot" alt="" />
+                          <ul class="list-1">
+                            <li> <strong>01.</strong> <a href="#">Cum sociis natoque penatibus et nulla duiusce feugiat male Morbi nunc odio cursus nec luctus.</a> </li>
+                            <li> <strong>02.</strong> <a href="#">nulla duiusce feugiat male Morbi nunc odio cursus nec luctus.</a> </li>
+                            <li> <strong>03.</strong> <a href="#">lorem Maecenas tristique orci ac sem Duis ultricies pharetra agna Donec accumsan malesuada.</a> </li>
+                          </ul>
+                          <a href="#" class="link"><span><span>read more</span></span></a> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="box-1">
+      <div class="bg-tail">
+        <div class="bg-top">
+          <div class="bg-bot">
+            <div class="box-indent">
+              <div class="wrapper">
+                <div class="row-2">
+                  <div class="line-ver-3">
+                    <div class="wrapper">
+                      <div class="col-1">
+                        <div class="wrapper">
+                          <h4>Services</h4>
+                          <ul class="list-2">
+                            <li><a href="#">Cum sociis natoque penatibus et nulla duiusce feugiat male</a></li>
+                            <li><a href="#">Morbi nunc odio cursus nec luctus a lorem maecenas tristique</a></li>
+                            <li><a href="#">Duis ultricies pharetra magna donec accumsan malesuada orci</a></li>
+                            <li><a href="#">Lorem ipsum dolor sit amet consectetuer adipiscing elit</a></li>
+                          </ul>
+                          <a href="#" class="link-1"><span><span>read more</span></span></a> </div>
+                      </div>
+                      <div class="col-2">
+                        <div class="wrapper">
+                          <h4>Equipment</h4>
+                          <h6>Cum sociis natoque penatibus et nulla duiusce</h6>
+                          <p>Morbi nunc odio cursus nec luctus a lorem. Maecenas tristique<br />
+                            orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci.
+                            Donec sit amet eros.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                          <a href="#" class="link-1"><span><span>read more</span></span></a> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <div id="footer">
+    <ul>
+      <li class="menu-act"><a href="index.html">Home</a></li>
+      <li><a href="index-1.html">About us</a></li>
+      <li><a href="index-2.html">Products</a></li>
+      <li><a href="index-3.html">Services</a></li>
+      <li><a href="index-4.html">Contacts</a></li>
+    </ul>
+    <p><span>Agriculture Co. &copy; 2009 | <a href="index-5.html">Privacy Policy</a></span></p>
+  </div>
+</div>
+</body>
+</html>

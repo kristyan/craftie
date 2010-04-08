@@ -1,0 +1,64 @@
+/*======= index.html =======*/
+
+#page1 .row-1 .line-ver-1 {background-position: 266px 0%;}
+#page1 .row-1 .line-ver-2 {background-position: 556px 0%;}
+#page1 .row-1 .col-1 {width: 242px; padding: 0 25px 0 0;}
+#page1 .row-1 .col-2 {width: 242px; padding: 0 25px 0 23px;}
+#page1 .row-1 .col-3 {width: 242px; padding: 0 0 0 23px;}
+
+#page1 .row-2 .line-ver-3 {background-position: 410px 0%;}
+#page1 .row-2 .col-1 {width: 391px; padding: 0 20px 0 0;}
+#page1 .row-2 .col-2 {width: 389px; padding: 0 0 0 22px;}
+
+/*======= index-1.html =======*/
+
+#page2 .row-1 .line-ver-1 {background-position: 266px 0%;}
+#page2 .row-1 .line-ver-2 {background-position: 556px 0%;}
+#page2 .row-1 .col-1 {width: 242px; padding: 0 25px 0 0;}
+#page2 .row-1 .col-2 {width: 242px; padding: 0 25px 0 23px;}
+#page2 .row-1 .col-3 {width: 242px; padding: 0 0 0 23px;}
+
+#page2 .row-2 .line-ver-3 {background-position: 410px 0%;}
+#page2 .row-2 .col-1 {width: 391px; padding: 0 20px 0 0;}
+#page2 .row-2 .col-2 {width: 389px; padding: 0 0 0 22px;}
+
+/*======= index-2.html =======*/
+
+#page3 .row-1 .line-ver-1 {background-position: 266px 0%;}
+#page3 .row-1 .line-ver-2 {background-position: 556px 0%;}
+#page3 .row-1 .col-1 {width: 242px; padding: 0 25px 0 0;}
+#page3 .row-1 .col-2 {width: 242px; padding: 0 25px 0 23px;}
+#page3 .row-1 .col-3 {width: 242px; padding: 0 0 0 23px;}
+
+#page3 .row-2 .line-ver-3 {background-position: 410px 0%;}
+#page3 .row-2 .col-1 {width: 391px; padding: 0 20px 0 0;}
+#page3 .row-2 .col-2 {width: 389px; padding: 0 0 0 22px;}
+
+/*======= index-3.html =======*/
+
+#page4 .row-1 .line-ver-1 {background-position: 266px 0%;}
+#page4 .row-1 .line-ver-2 {background-position: 556px 0%;}
+#page4 .row-1 .col-1 {width: 242px; padding: 0 25px 0 0;}
+#page4 .row-1 .col-2 {width: 242px; padding: 0 25px 0 23px;}
+#page4 .row-1 .col-3 {width: 242px; padding: 0 0 0 23px;}
+
+#page4 .row-2 .line-ver-3 {background-position: 410px 0%;}
+#page4 .row-2 .col-1 {width: 391px; padding: 0 20px 0 0;}
+#page4 .row-2 .col-2 {width: 389px; padding: 0 0 0 22px;}
+
+/*======= index-4.html =======*/
+
+#page5 .row-1 .line-ver-1 {background-position: 266px 0%;}
+#page5 .row-1 .line-ver-2 {background-position: 556px 0%;}
+#page5 .row-1 .col-1 {width: 242px; padding: 0 25px 0 0;}
+#page5 .row-1 .col-2 {width: 242px; padding: 0 25px 0 23px;}
+#page5 .row-1 .col-3 {width: 242px; padding: 0 0 0 23px;}
+
+#page5 .row-2 .line-ver-3 {background-position: 410px 0%;}
+#page5 .row-2 .col-1 {width: 391px; padding: 0 20px 0 0;}
+#page5 .row-2 .col-2 {width: 389px; padding: 0 0 0 22px;}
+
+
+/*======= index-5.html =======*/
+#page6 #main { background:url(images/main-bg.jpg) 0% 0% no-repeat;}
+#page6 #header {background: url(images/header.jpg) no-repeat left 100%;}
